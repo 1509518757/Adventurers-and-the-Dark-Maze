@@ -1,0 +1,4 @@
+repository "Adventurers and the Dark Maze@GP36@cloud"
+  path "/"
+    br "/main"
+    co "/main"
